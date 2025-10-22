@@ -1,0 +1,11 @@
+Model Information:
+* title:	Austrian Coin - 1912 (2 Kronen)
+* source:	https://sketchfab.com/3d-models/austrian-coin-1912-2-kronen-9c0b45aac14c417d8b87a016cea4c3b8
+* author:	Mario_Wallner (https://sketchfab.com/Mario_Wallner)
+
+Model License:
+* license type:	CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)
+* requirements:	Author must be credited. No commercial use.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Austrian Coin - 1912 (2 Kronen)" (https://sketchfab.com/3d-models/austrian-coin-1912-2-kronen-9c0b45aac14c417d8b87a016cea4c3b8) by Mario_Wallner (https://sketchfab.com/Mario_Wallner) licensed under CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)

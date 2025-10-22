@@ -1,0 +1,237 @@
+{
+  "accessors": [
+    {
+      "bufferView": 2,
+      "componentType": 5126,
+      "count": 50610,
+      "max": [
+        0.9702190160751343,
+        -10.813350677490234,
+        1.9697380065917969
+      ],
+      "min": [
+        -3.5866780281066895,
+        -13.726781845092773,
+        -2.0167930126190186
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 2,
+      "byteOffset": 607320,
+      "componentType": 5126,
+      "count": 50610,
+      "max": [
+        0.999226450920105,
+        0.9987143874168396,
+        0.9992743730545044
+      ],
+      "min": [
+        -0.9995777606964111,
+        -0.9997169971466064,
+        -0.9993544816970825
+      ],
+      "type": "VEC3"
+    },
+    {
+      "bufferView": 3,
+      "componentType": 5126,
+      "count": 50610,
+      "max": [
+        0.9953193068504333,
+        0.9848877787590027,
+        0.9641748070716858,
+        1.0
+      ],
+      "min": [
+        -0.999954879283905,
+        -0.9573960304260254,
+        -0.9168053865432739,
+        1.0
+      ],
+      "type": "VEC4"
+    },
+    {
+      "bufferView": 1,
+      "componentType": 5126,
+      "count": 50610,
+      "max": [
+        0.995805025100708,
+        0.9938790202140808
+      ],
+      "min": [
+        0.0039059999398887157,
+        0.0034050000831484795
+      ],
+      "type": "VEC2"
+    },
+    {
+      "bufferView": 0,
+      "componentType": 5125,
+      "count": 300000,
+      "type": "SCALAR"
+    }
+  ],
+  "asset": {
+    "extras": {
+      "author": "Mario_Wallner (https://sketchfab.com/Mario_Wallner)",
+      "license": "CC-BY-NC-4.0 (http://creativecommons.org/licenses/by-nc/4.0/)",
+      "source": "https://sketchfab.com/3d-models/austrian-coin-1912-2-kronen-9c0b45aac14c417d8b87a016cea4c3b8",
+      "title": "Austrian Coin - 1912 (2 Kronen)"
+    },
+    "generator": "Sketchfab-12.65.0",
+    "version": "2.0"
+  },
+  "bufferViews": [
+    {
+      "buffer": 0,
+      "byteLength": 1200000,
+      "name": "floatBufferViews",
+      "target": 34963
+    },
+    {
+      "buffer": 0,
+      "byteLength": 404880,
+      "byteOffset": 1200000,
+      "byteStride": 8,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 1214640,
+      "byteOffset": 1604880,
+      "byteStride": 12,
+      "name": "floatBufferViews",
+      "target": 34962
+    },
+    {
+      "buffer": 0,
+      "byteLength": 809760,
+      "byteOffset": 2819520,
+      "byteStride": 16,
+      "name": "floatBufferViews",
+      "target": 34962
+    }
+  ],
+  "buffers": [
+    {
+      "byteLength": 3629280,
+      "uri": "scene.bin"
+    }
+  ],
+  "images": [
+    {
+      "uri": "textures/2_Kronen_1912.1001_baseColor.jpeg"
+    },
+    {
+      "uri": "textures/2_Kronen_1912.1001_metallicRoughness.png"
+    },
+    {
+      "uri": "textures/2_Kronen_1912.1001_normal.png"
+    }
+  ],
+  "materials": [
+    {
+      "doubleSided": true,
+      "name": "2_Kronen_1912.1001",
+      "normalTexture": {
+        "index": 2,
+        "scale": 0.30365283623005224
+      },
+      "pbrMetallicRoughness": {
+        "baseColorTexture": {
+          "index": 0
+        },
+        "metallicRoughnessTexture": {
+          "index": 1
+        }
+      }
+    }
+  ],
+  "meshes": [
+    {
+      "name": "Object_0",
+      "primitives": [
+        {
+          "attributes": {
+            "NORMAL": 1,
+            "POSITION": 0,
+            "TANGENT": 2,
+            "TEXCOORD_0": 3
+          },
+          "indices": 4,
+          "material": 0,
+          "mode": 4
+        }
+      ]
+    }
+  ],
+  "nodes": [
+    {
+      "children": [
+        1
+      ],
+      "matrix": [
+        0.8647885322570801,
+        -0.4597443044185639,
+        0.20193052291870106,
+        0.0,
+        -0.41320401430130005,
+        -0.4230534434318544,
+        0.8064045310020446,
+        0.0,
+        -0.2853124737739563,
+        -0.7808079123497008,
+        -0.5558199882507326,
+        0.0,
+        -5.2536468505859375,
+        -5.834242820739751,
+        22.415830612182617,
+        1.0
+      ],
+      "name": "Sketchfab_model"
+    },
+    {
+      "children": [
+        2
+      ],
+      "name": "2 Kronen_1912.obj.cleaner.materialmerger.gles"
+    },
+    {
+      "mesh": 0,
+      "name": "Object_2"
+    }
+  ],
+  "samplers": [
+    {
+      "magFilter": 9729,
+      "minFilter": 9987,
+      "wrapS": 10497,
+      "wrapT": 10497
+    }
+  ],
+  "scene": 0,
+  "scenes": [
+    {
+      "name": "Sketchfab_Scene",
+      "nodes": [
+        0
+      ]
+    }
+  ],
+  "textures": [
+    {
+      "sampler": 0,
+      "source": 0
+    },
+    {
+      "sampler": 0,
+      "source": 1
+    },
+    {
+      "sampler": 0,
+      "source": 2
+    }
+  ]
+}

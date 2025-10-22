@@ -1,0 +1,8 @@
+Model Information:
+* title:	999.9 Pure Silver Bar
+* source:	https://sketchfab.com/3d-models/9999-pure-silver-bar-4fe1749a29194d0b9c99696763d3279a
+* author:	CG Robot (https://sketchfab.com/cgrobot)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
